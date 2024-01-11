@@ -5,7 +5,6 @@
 
 #from functions05 import my_abs
 
-
 print('hello.world')
 #这是第一个程序
 
@@ -27,3 +26,5 @@ classmates.insert(1,'jack')
 print(classmates)
 classmates.pop()
 print(classmates)
+
+

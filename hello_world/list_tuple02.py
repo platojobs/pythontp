@@ -113,3 +113,8 @@ dimensions = (200,50)
 for dimension in dimensions:
     print(dimension)
 
+# 可变的tuple
+t = ("a","b",["A","B"])
+t[2][0] = "xd"
+t[2][1] = "fg"
+print(t)
