@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e73c45a-dda8-4c4e-adb9-5541cd31ab49" name="变更" comment="变更">
-      <change afterPath="$PROJECT_DIR$/hello_world/city_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_world/dictionary_1.15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_world/dictionary_1.18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_world/geo_Baidu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_world/hanshu_1.30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello_world/set_1.15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_world/py_language0327.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello_world/sty_0326.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world/排序算法.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world/排序算法.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,36 +47,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.algorithm_paixu.executor&quot;: &quot;Run&quot;,
-    &quot;Python.city_data.executor&quot;: &quot;Run&quot;,
-    &quot;Python.create_logiStudy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionary_1.15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionary_1.18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gui_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hanshu_1.30.executor&quot;: &quot;Run&quot;,
-    &quot;Python.jinjie_1-3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.json_dataModel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_tuple02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.match_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.objc_1-2-1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.objc_1-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.read_writeFile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.set_1.15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.str_1-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.str_1-5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.study1215.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ultraman1-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.xunhuan.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gitartos/Desktop/pythontp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.algorithm_paixu.executor": "Run",
+    "Python.city_data.executor": "Run",
+    "Python.create_logiStudy.executor": "Run",
+    "Python.dictionary_1.15.executor": "Run",
+    "Python.dictionary_1.18.executor": "Run",
+    "Python.gui_main.executor": "Run",
+    "Python.hanshu_1.30.executor": "Run",
+    "Python.jinjie_1-3.executor": "Run",
+    "Python.json_dataModel.executor": "Run",
+    "Python.list_tuple02.executor": "Run",
+    "Python.match_test.executor": "Run",
+    "Python.objc_1-2-1.executor": "Run",
+    "Python.objc_1-2.executor": "Run",
+    "Python.py_language0327.executor": "Run",
+    "Python.read_writeFile.executor": "Run",
+    "Python.set_1.15.executor": "Run",
+    "Python.str_1-2.executor": "Run",
+    "Python.str_1-5.executor": "Run",
+    "Python.study1215.executor": "Run",
+    "Python.sty_0326.executor": "Run",
+    "Python.ultraman1-2.executor": "Run",
+    "Python.xunhuan.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/gitartos/Desktop/pythontp",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hello_world" />
@@ -88,7 +88,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
